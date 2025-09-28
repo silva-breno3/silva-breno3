@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" alt="Hacker typing on a computer"/>
+  <img src="https://github.com/silva-breno3/silva-breno3/blob/main/breno.png?raw=true" width="400" alt="Hacker typing on a computer"/>
   <h1>Hi there! I'm Breno 👋</h1>
   <p><strong>Computer Science Student | Aspiring Information Security Professional | Esports Enthusiast</strong></p>
 </div>
